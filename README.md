@@ -1,3 +1,3 @@
 # NaverBlog
 
-# This is for Naver BLog data crawling.
+This is for Naver BLog data crawling.
